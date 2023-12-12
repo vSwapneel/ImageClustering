@@ -5,4 +5,4 @@ Input Data (provided under Test) consists of 10,740 images of handwritten digits
 **Format of the input data:**
 Each row is a record (image), which contains 784 comma-delimited integers.
 
-In this project, Kmeans clustering method is used
+In this project, Kmeans clustering method is used.
